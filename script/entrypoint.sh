@@ -1,5 +1,5 @@
 #!/bin/bash
-set -e #stop when have issue
+set -e #stop when have issue.
 
 #check exist file requirement
 if [ -e "/opt/airflow/requirements.txt" ]; then
