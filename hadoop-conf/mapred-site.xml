@@ -1,0 +1,12 @@
+<configuration>
+    <property>
+        <name>mapreduce.map.output.compress</name>
+        <value>true</value>
+    </property>
+
+    <property>
+        <name>mapreduce.map.output.compress.codec</name>
+        <value>org.apache.hadoop.io.compress.SnappyCodec</value>
+    </property>
+</configuration>
+
