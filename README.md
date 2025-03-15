@@ -15,7 +15,7 @@ This project represents a data pipeline that integrates various big data technol
 
 ## Architecture Components
 ### 1. System Architecture
-![Data Pipeline](system_architecture.png)
+![Data Pipeline](image_system_architecture.png)
 ### 2. **Data Source**
 I use **randomuser.me** API to generate random user data for my pipeline
 ### 3. **Data Ingestion**
