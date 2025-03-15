@@ -44,7 +44,7 @@ I use **randomuser.me** API to generate random user data for my pipeline
 ## Get started
 The first time you can clone the repository:
 ```sh 
-git clone https://github.com/tiennguyen2k4/Streaming-Pipeline-ETL
+git clone https://github.com/tiennguyen2k4/ETL-Pipeline-Streaming
 ```
 This project runs in a **Dockerized environment**. To start the services:
 ```sh
