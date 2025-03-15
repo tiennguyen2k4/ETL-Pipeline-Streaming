@@ -1,6 +1,7 @@
 FROM bitnami/spark:latest
 
 USER root
+
 RUN apt-get update && apt-get install -y wget
 RUN wget https://archive.apache.org/dist/hadoop/common/hadoop-3.2.1/hadoop-3.2.1.tar.gz && \
     tar -xzf hadoop-3.2.1.tar.gz -C /opt/ && \
